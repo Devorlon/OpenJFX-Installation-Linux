@@ -62,12 +62,17 @@ https://openjfx.io/openjfx-docs/#introduction
 A: I would like to as I find them easy to follow as well, but I can’t be bothered.
 
 
+#### Q: Can I contrubute? 
+
+A: Just make a Pull Request and I'll probable merge it.
+
+
 #### Q: My machine is now broken.
 
 A: That’s not a question, and I don’t care reset your machine and try again.
 
 
-#### Q: You stole this from openjfx.io 
+#### Q: You stole this from openjfx.io.
 
 A: Yes, yes I did. Though I did it because I / the people I wrote this for found it easier to follow.
 (P.S. Please go check these guys out they’ve done tones for the FX community)
