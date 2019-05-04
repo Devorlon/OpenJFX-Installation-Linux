@@ -46,7 +46,7 @@ A: Follow these steps:
 2.	Under ‘Java Application’ select your created program
 3.	Under the arguments tab insert the following command into ‘VM arguments’ as one line:
 ```
--module-path /home/YOUR_USERNAME/.javafx/lib -add-modules javafx.controls,javafx.graphics,javafx.fxml
+-module-path /home/.javafx/lib -add-modules javafx.controls,javafx.graphics,javafx.fxml
 ```
 4.	Select ‘Apply’
 
