@@ -33,9 +33,12 @@ Well done you can now create Java and JavaFX applications in Linux.
 
 ## Help:
 Q: Will this work on any Distro or even Windows?
+
 A: Yes, it should as long as you replace the ‘apt install’ with your system counterpart.
 
+
 Q: When I try to run my application, it tells me:
+
 Error: JavaFX runtime components are missing, and are required to run this application.
 A: Follow these steps:
 1.	Select: Eclipse -> Run -> Run Configurations
@@ -47,16 +50,23 @@ A: Follow these steps:
 4.	Select ‘Apply’
 
 Q: Will this work for Netbeans / IntelliJ?
+
 A: No, a lot of this is specific to Eclipse if you want a good guide follow the OpenJFX documentation: 
 https://openjfx.io/openjfx-docs/#introduction
 
+
 Q: Can you add pictures?
+
 A: I would like to as I find them easy to follow as well, but I can’t be bothered.
 
+
 Q: My machine is now broken.
+
 A: That’s not a question, and I don’t care reset it and try again.
 
+
 Q: You stole this from openjfx.io 
+
 A: Yes, yes I did. Though I did it because I / the people I wrote this for found it easier to follow.
 (P.S. Please go check these guys out they’ve done tones for the FX community)
 
