@@ -1,6 +1,6 @@
 # How to install Java 12 & JavaFX for Debian – Eclipse-IDE
-1.	Install Ubuntu 19.04
-2.	Update Ubuntu 19.04
+1.	Install your OS of choice (Preferably Debian based)
+2.	Update the system
 3.	Run: 
 ```
 sudo apt-get install openjdk-12-jdk
