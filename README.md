@@ -1,24 +1,37 @@
-#How to install Java 12 & JavaFX for Debian – Eclipse-IDE
+# How to install Java 12 & JavaFX for Debian – Eclipse-IDE
 1.	Install Ubuntu 19.04
 2.	Update Ubuntu 19.04
-3.	Run: sudo apt-get install openjdk-12-jdk
-4.	Run: sudo snap install eclipse
+3.	Run: 
+```
+sudo apt-get install openjdk-12-jdk
+```
+4.	Run:
+```
+sudo snap install eclipse
+```
 5.	Download OpenJFX 12
 6.	Extract the .zip and place the contents in a folder called .javafx in your home folder.
 7.	Open eclipse
-8.	Select: Eclipse -> Window -> Preferences -> Java -> Build Path -> User Libraries -> New
+8.	Select: 
+```
+Eclipse -> Window -> Preferences -> Java -> Build Path -> User Libraries -> New
+```
 9.	Name it JavaFX12
 10.	Click ‘Add External JARs…”
 11.	Go to /home/.javafx/lib
 12.	Select OK
 13.	Select ‘Apply and Close’
-14.	Select Eclipse -> Help -> Eclipse Marketplace
+14.	Select: 
+```
+Eclipse -> Help -> Eclipse Marketplace
+```
 15.	In the find field search for ‘FX’ (press enter)
 16.	Install a version greater than or equal to ‘e(fx)clispe 3.5.0’
 17.	Accept License agreement and Certificates then restart.
 
 Well done you can now create Java and JavaFX applications in Linux.
-Help:
+
+## Help:
 Q: Will this work on any Distro or even Windows?
 A: Yes, it should as long as you replace the ‘apt install’ with your system counterpart.
 
