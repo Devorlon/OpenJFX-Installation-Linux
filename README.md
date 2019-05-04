@@ -64,7 +64,7 @@ A: I would like to as I find them easy to follow as well, but I can’t be bothe
 
 #### Q: Can I contrubute? 
 
-A: Just make a Pull Request and I'll probable merge it.
+A: Just make a Pull Request and I'll probably merge it.
 
 
 #### Q: My machine is now broken.
