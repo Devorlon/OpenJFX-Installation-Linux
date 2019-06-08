@@ -7,7 +7,7 @@ sudo apt-get install openjdk-12-jdk
 ```
 4.	Run:
 ```
-sudo snap install eclipse
+sudo snap install eclipse --classic
 ```
 5.	Download OpenJFX 12
 6.	Extract the .zip and place the contents in a folder called .javafx in your home folder.
